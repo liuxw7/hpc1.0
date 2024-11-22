@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="github" fetch="https://github.com/liuxw7"/>
+    <default revision="master" remote="github" sync-j="4"/>
+    
+    <project name="cpptrace.git" path="./tools/" revision="master"/>
+    <project name="netpp.git" path="./tools" revision="master"/>
+    <project name="dds_topic_tool.git" path="./tools" revision="master"/>
+    <project name="enkiTS.git" path="./frameworks/" revision="master"/>
+    <project name="gparallel.git" path="./frameworks/" revision="master"/>
+    <project name="eventpp.git" path="./frameworks/" revision="master"/>
+    <project name="lockfree_mpmc_queue.git" path="./common" revision="master"/>
+
+
+    <!-- 更多项目... -->
+
+</manifest>
