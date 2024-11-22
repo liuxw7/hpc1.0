@@ -3,9 +3,9 @@
     <remote name="github" fetch="https://github.com/liuxw7"/>
     <default revision="main" remote="github" sync-j="4"/>
     
-    <project name="cpptrace.git" path="tools/cpptrace" revision="master"/>
+    <project name="cpptrace.git" path="tools/cpptrace" revision="main"/>
     <project name="netpp.git" path="tools/netpp" revision="master"/>
-    <project name="dds_topic_tool.git" path="tools/dds_topic_tool" revision="master"/>
+    <project name="dds_topic_tool.git" path="tools/dds_topic_tool" revision="main"/>
     <project name="enkiTS.git" path="frameworks/enkiTS" revision="master"/>
     <project name="gparallel.git" path="frameworks/gparallel" revision="master"/>
     <project name="eventpp.git" path="frameworks/eventpp" revision="master"/>
